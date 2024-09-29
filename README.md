@@ -20,6 +20,7 @@ Shell-Scripts has currently the following scripts.
 | Script | README |
 | ------ | ------ |
 | mullvad_firefox_automation.sh | Detects when firefox is running and enables MullvadVPN to protect you |
+| update_apt.sh | Automatically updates apt | 
 
 ## License
 
